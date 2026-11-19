@@ -8,4 +8,4 @@ Open `index.html` in a browser, or serve this directory with any static file ser
 
 ## GitHub Pages
 
-The workflow in `.github/workflows/pages.yml` deploys the repository root to GitHub Pages whenever a commit is pushed to `main`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. The first workflow run publishes the site.
+The workflow in `.github/workflows/static.yml` deploys the repository root to GitHub Pages whenever a commit is pushed to `main`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. The first workflow run publishes the site.
